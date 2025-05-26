@@ -1,4 +1,4 @@
-package ex_10_SwitchStatements;
+package ex_09_SwitchStatements;
 
 import java.util.Scanner;
 
